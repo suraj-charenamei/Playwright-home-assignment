@@ -1,0 +1,24 @@
+
+// Home Assignment//
+
+let userName = "Charenamei"
+console.log(userName);
+console.log(typeof userName);
+
+let organization = "WallStreetEnglish"
+console.log(organization);
+console.log(typeof organization);
+
+let contactNumber = 6538923671
+console.log(contactNumber);
+console.log(typeof contactNumber);
+
+let knowsAutomation = false
+console.log(knowsAutomation);
+console.log(typeof knowsAutomation);
+
+let usesPlaywright
+console.log(usesPlaywright);
+console.log(typeof usesPlaywright);
+
+
